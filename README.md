@@ -1,8 +1,6 @@
 # portfolio
 Build a Portfolio Site A part of the Front-End Web Developer Nanodegree Program
 
-see it here: https://sandrine10.github.io/portfolio/
-
 
 # Udacity's intructions
 
